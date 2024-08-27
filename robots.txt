@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://evermity.github.io/sitemap.html.gz
+Sitemap: https://evermity.github.io/app/sitemap.html.gz
+Sitemap: https://evermity.github.io/assets/sitemap.html.gz
+Sitemap: https://evermity.github.io/css/sitemap.html.gz
+Sitemap: https://evermity.github.io/includes/sitemap.html.gz
+Sitemap: https://evermity.github.io/item/sitemap.html.gz
+Sitemap: https://evermity.github.io/src/sitemap.html.gz
